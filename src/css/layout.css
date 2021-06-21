@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+  
+  .radiusCard {
+    border-radius: 30px;
+  }
+  .radius {
+    border-radius: 50px;
+  }
+  
+  :focus-visible {
+    outline: none;
+  }
+  
+  footer {
+    height: 5vh;
+    background-color: var(--greyFooter);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  

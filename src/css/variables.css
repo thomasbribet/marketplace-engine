@@ -1,0 +1,16 @@
+:root {
+    --bluePrimary: #0065ff;
+    --button: #fff700;
+    --bgColor: #e2dfdf;
+    --greyFooter: #707583;
+    --whiteCard: #fcfcfc;
+    --roboto: 'Roboto Condensed', sans-serif;
+    --boxShadow: 2px 3px 10px 0px rgba(0, 0, 0, 0.25);
+    --radial-gradient: radial-gradient(
+      circle,
+      rgba(209, 209, 209, 1) 0%,
+      rgba(133, 133, 133, 1) 35%,
+      rgba(47, 47, 47, 1) 100%
+    );
+  }
+  
